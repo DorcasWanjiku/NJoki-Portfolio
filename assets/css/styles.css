@@ -9,10 +9,10 @@
 
 /*===== Colores =====*/
 :root{
-    --first-color: #f8f8fa;
+    --text-color: #f8f8ff;
     --white-color: #1f1f46;
-    --dark-color: #2f4b68;
-    --text-color: #bfc8ca;
+    --dark-color: #5d6770;
+    --text-color: #060707;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -135,7 +135,7 @@ img{
         width: 80%;
         height: 100%;
         padding: 2rem;
-        background-color: rgba(255,255,255,.3);
+        background-color: rgba(238, 223, 223, 0.3);
         transition: .5s;
         backdrop-filter: blur(10px);
     }
